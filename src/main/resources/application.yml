@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: messaging-app
+  profiles:
+    include:
+      - db
+      - security

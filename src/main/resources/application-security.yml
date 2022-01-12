@@ -1,0 +1,11 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client_id: 1055821219865-vdm5aede05ce95prrt4iv4crurnsrpoc.apps.googleusercontent.com
+            client_secret: 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
+            response_type: code
+
+# TODO Google OAuth not working properly
